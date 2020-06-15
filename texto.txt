@@ -1,1 +1,9 @@
-COIASDSA
+git clone (URL) faz uma copia do repositorio
+
+git add.
+
+git commit -m "mensagem"
+
+git push
+
+git pull
